@@ -1,4 +1,4 @@
-Provided Express.js backend code, tailored to explain its purpose, setup, usage, and integration with the frontend application shown in the attached images. This README is designed to be developer-friendly, providing all necessary details to understand, run, and contribute to the project.
+Provided Express.js backend code, tailored to explain its purpose, setup, usage, and integration with the frontend application GRAMXRO APP. This README is designed to be developer-friendly, providing all necessary details to understand, run, and contribute to the project.
 
 ```markdown
 # Token Sale Application Backend
