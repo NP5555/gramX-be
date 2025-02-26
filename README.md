@@ -96,6 +96,3 @@ The backend integrates with a mobile frontend (built with Expo, React Native, an
 
 ## License
 This project is licensed under the MIT License.
-
-## Contact
-For support, open an issue or contact [Your Name/.
